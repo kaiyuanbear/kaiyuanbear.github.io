@@ -104,4 +104,4 @@ theme: nexmoe
 deploy:
   type: 'git'
   repo:  https://github.com/kaiyuanbear/kaiyuanbear.github.io.git
-  branch: gh-pages
+  branch: master
