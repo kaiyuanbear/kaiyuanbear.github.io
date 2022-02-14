@@ -4,7 +4,7 @@ date: 2022-02-11 15:21:02
 tags: ECharts 
 ---
 
-随着Echarts Gallery和Make a Pie(Apache Echarts 的非官方第三方Echarts作品分享社区)相继关闭，对于我们前端同学来说是个噩耗。对于我们在平时需要使用ECharts的现成实例带来了不少麻烦。通过在掘金上的ECharts 实例[<sub>1</sub>](#refer)检索，发现有如下几个入口可以方便的获取到以往的实例
+随着Echarts Gallery和Make a Pie(Apache Echarts 的非官方第三方Echarts作品分享社区)相继关闭，对于我们前端同学来说是个噩耗。对于我们在平时需要使用ECharts的现成实例带来了不少麻烦。通过在掘金上的ECharts 实例<sup>[[1]](#refer)</sup>检索，发现有如下几个入口可以方便的获取到以往的实例
   1. 网上某位大佬整理的论坛实例资源库：[入口一](http://192.144.199.210/forum.php?mod=forumdisplay&fid=2) 
   2. 另一位大佬整理的资源库：[入口二](http://analysis.datains.cn/finance-admin/#/chartLib/all)
   3. 最近刚发现的一个实例资源库: [入口三](http://ppchart.com/#/)
@@ -16,4 +16,4 @@ tags: ECharts
 
 <div id="refer"></div>
 
-- [1] [ECharts案例大全，含各种案例，实例](https://juejin.cn/post/7062254510311211044?utm_source=gold_browser_extension)
+- 1 [ECharts案例大全，含各种案例，实例](https://juejin.cn/post/7062254510311211044?utm_source=gold_browser_extension)
